@@ -1,2 +1,3 @@
 modifying file1
 adding more data to the file
+added to check stash is wroking or not
